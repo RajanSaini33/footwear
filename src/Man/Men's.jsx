@@ -497,7 +497,7 @@ const dispatch = useDispatch();
             <p className="mr-3 font-bold">Rs.{item.prize}</p>
             <p className="line-through opacity-40">Rs.{item.deco}</p>
           </div>
-          <div>{item.rating}</div>
+          <div>{item.rating}rf</div>
         </div>
         <button className="bg-black ml-5 border-2 flex w-[190px] h-10  rounded-3xl py-2 px-8 gap-0.5 hover:bg-blue-800 text-white"  onClick={()=>handleAddToCart(item)}>
           <FaShoppingCart className="mt-1 " />
