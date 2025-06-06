@@ -1,0 +1,140 @@
+
+
+.sc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 56px;
+    height: auto;
+    background-color: #E7F3EC;
+}
+.sa{
+    display: flex;
+    font-size: 20px;
+    justify-content: left;
+    flex: 0 0 25%;
+    gap:30px;
+    align-items: center;
+    text-align: center; 
+}
+.hh{
+    width: 100%;
+    height: auto;
+    size: cover;
+
+}
+
+.hh img{
+    height: auto;
+    width: 100%;
+}
+.sh{
+    background-color: #f9f6f1;
+    height: 600px;
+}
+.pk{
+    text-align: center;
+}
+.oo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.chai{
+    width: 300px;
+    margin-left: 35px;
+    
+}
+.chai1{
+    width: 300px;
+    margin-left: 35px;
+}
+.chai2{
+    width: 300px;
+    margin-left: 35px;
+}
+.chai3{
+    width: 300px;
+    margin-left: 35px;
+}
+.bu{
+    text-align: center;
+}
+.bu button{
+ text-align: center;
+ margin-top: 60px;
+ font-size: 16px;
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-weight: 600;
+ /* border: 1px solid; */
+ line-height: 20px;
+ padding: 13px 24px;
+ 
+}
+.new{
+    height: 100%;
+    width: 100%;
+
+}
+.newchaild{
+    margin-left: 60px;
+}
+.chaild1{
+    display: flex;
+    height: auto;
+}
+.chaild1 img{
+    height: 300px;
+    width: 300px;
+    margin-left: 60px;
+
+}
+/* .chaild1 img:hover{
+    box-shadow: 10px 3px 3px 3px rgb(231, 227, 227);
+    transition: 0.5s;
+} */
+.image{
+    width: 360px;
+    padding-bottom: 30px;
+    margin-left: 20px;
+}
+.image:hover{
+    box-shadow: 5px 10px 20px 20px rgba(231, 227, 227, 0.219);
+}
+.image p{
+    text-align: center;
+}
+.image button{
+    margin-left: 80px;
+    padding: 17px 50px 17px 50px;
+    background: #000000;
+    color: #ffffff;
+    border:none;
+}
+.image button:hover{
+    background: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+    transition: 1.2s;
+    display: block;
+    box-shadow: inset 340px 0 #ffffff;
+}
+.su{
+    text-align: center;
+    margin-top: 40px;
+}
+.su button{
+   border: 3px solid black;
+   text-align: center;
+   padding: 18px 40px 18px 40px;
+}
+.su button:hover{
+background-color: #060606;
+color: #fcf8f8;
+border: 3px solid black;
+transition: 1.2s;
+box-shadow: inset 340px 0 #20201f;
+ 
+}
+

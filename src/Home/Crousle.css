@@ -1,0 +1,19 @@
+.leftbtn,.rightbtn{
+    position: absolute;
+    top:30%
+}
+
+.AA{
+    background-color: gray;
+    color: wheat;
+    font-size: 20px;
+    border: none;
+
+}
+.leftbtn{
+    left: 5px;
+    
+}
+.rightbtn{
+    right: 5px;
+}
